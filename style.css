@@ -1,0 +1,88 @@
+body {
+    display: flex;
+    justify-content:space-evenly;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #515894;
+    font-weight: bold;
+    font-size: 20px;
+    align-items: center;
+    height: 600px;
+    margin-top: 30px;
+    text-align: center;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+    background-image: url(https://png.pngtree.com/background/20210709/original/pngtree-clothing-sales-geometric-white-background-picture-image_914268.jpg);
+}
+
+    
+#head {
+    display: flex;
+    flex-direction: column;
+    font-family: cursive;
+    height: 350px;
+    width: 650px;
+    background-color: #ffffff;
+}
+
+#head p {
+    color: #6b6c7a;
+}
+
+#palindrome {
+    background-color: rgb(243, 243, 243);
+    height: 320px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    padding: 20px;
+    border-radius: 20px;
+    border: 4px solid #515894;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #515894;
+    font-size: 30px;
+    padding: 40px;
+    font-family: cursive;
+}
+
+input{
+    width: 300px;
+    height: 30px;
+    border: 3px solid #7c82b5;
+    margin-top: 30px;
+}
+
+.button {
+    color: #000000;
+    margin-top: 40px;
+    width: 150px;
+    padding: 5px 10px;
+    font-weight: 600;
+    text-decoration: none;
+    letter-spacing: 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.5s;
+    background: #7d82b5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid #000000;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.5s;
+    transition-property: box-shadow;
+    box-shadow: 2px 2px 2px 1px #000000;
+    font-size: 15px;
+}
+
+form #result{
+    font-size: 20px;
+    color: #d0347d;
+}
