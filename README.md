@@ -2,7 +2,7 @@
   <h3>PALINDROME</h3>
   <br>
   <div>
-    <img src="https://github.com/TanapaPalmer/PALINDROME/assets/119079803/42593e8f-1f0c-4ac5-9a63-952b917e97e0" alt="palindrome_picture" height="250"/>
+    <img src="https://github.com/TanapaPalmer/PALINDROME/assets/119079803/e749179e-ad4a-48b8-b83f-3c86d0a0e2ad" alt="palindrome_picture" height="250"/>
   </div>
   <br>
   <p>"This is what I have learned in the class. I'm building this cool Tanapa Palindrome Checker using HTML, CSS, and JavaScript!</p>
@@ -19,11 +19,6 @@
 
   <div>
     <p><strong>HOW MY PALINDROME CHECKER WORKS:</strong></p>
-    <video src="https://github.com/TanapaPalmer/PALINDROME/assets/119079803/0808e812-7859-4147-b33d-8dd24d7818db"></video>
+    <video src="https://github.com/TanapaPalmer/PALINDROME/assets/119079803/694e0d24-1e3f-47dc-b7f2-7932dfa82708"></video>
   </div>
 </div>
-
-
-
-
-
