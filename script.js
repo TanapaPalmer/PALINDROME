@@ -1,7 +1,7 @@
 function palindrome(text) {
-    if (text.length <= 1) {
-        return false;
-    }
+    // if (text.length <= 1) {
+    //     return false;
+    // }
 
     for (let p = 0; p < text.length / 2; p++) {
         if (text[p].toLowerCase() !== text[text.length - 1 - p].toLowerCase()) {
