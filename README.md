@@ -1,5 +1,6 @@
 <div>
   <h3>PALINDROME</h3>
+  <p>:pushpin:#tanapa_100day_projects</p>
   <br>
   <div>
     <img src="https://github.com/TanapaPalmer/PALINDROME/assets/119079803/e749179e-ad4a-48b8-b83f-3c86d0a0e2ad" alt="palindrome_picture" height="250"/>
