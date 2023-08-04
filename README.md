@@ -6,8 +6,8 @@
     <img src="https://github.com/TanapaPalmer/PALINDROME/assets/119079803/e749179e-ad4a-48b8-b83f-3c86d0a0e2ad" alt="palindrome_picture" height="250"/>
   </div>
   <br>
-  <p>"This is what I have learned in the class. I'm building this cool Tanapa Palindrome Checker using HTML, CSS, and JavaScript!</p>
-  <p>Let's see if your words are palindromes or not! Give it a shot!"</p>
+  <p>This is what I have learned in the class. I'm building this cool Tanapa Palindrome Checker using HTML, CSS, and JavaScript!</p>
+  <p>Let's see if your words are palindromes or not! Give it a shot!</p>
 
   <hr>
 
